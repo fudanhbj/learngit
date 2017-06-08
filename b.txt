@@ -1,1 +1,2 @@
 txt file b
+modified by b.txt
