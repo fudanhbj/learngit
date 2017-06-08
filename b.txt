@@ -1,2 +1,3 @@
 txt file b
-modified by b.txt
+modified by Lab PC
+modified by Home PC
